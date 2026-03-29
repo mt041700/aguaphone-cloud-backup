@@ -1,0 +1,24 @@
+{
+  "version": "1.0",
+  "createdAt": "2026-03-29T17:12:05.434Z",
+  "totalSize": 68362047,
+  "chunkSize": 26214400,
+  "chunks": [
+    {
+      "filename": "part_000.zip",
+      "size": 26214400,
+      "sha": "7e9298577eff2204d5d59c1a37b48728e821f83b"
+    },
+    {
+      "filename": "part_001.zip",
+      "size": 26214400,
+      "sha": "efb9beaedd44cb489153481814a4373cdd6eebd3"
+    },
+    {
+      "filename": "part_002.zip",
+      "size": 15933247,
+      "sha": "a2826923e5ca7c1884fe5fdfb9d03440ec63c296"
+    }
+  ],
+  "checksum": "c4362d622bc97ad82ad0d040dcf94b0323ce1c8c1dc5e69e3b791f9e4f3ddda7"
+}
